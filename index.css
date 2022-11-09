@@ -1,0 +1,180 @@
+
+body {
+  background-color:rgb(177, 16, 177);
+  
+}
+.ins{
+  background-color: rgb(245, 233, 233);
+  
+  box-shadow: 12px 11px 11px 1px #00000031;
+border-radius: 15px;
+display: inline-block;
+ padding-left: 8PX;
+ padding-right: 25px;
+ margin: 150px 500px;
+}
+#name,#pass,#email {
+  text-transform: capitalize;
+  border-radius: 5px;
+  padding: 8px;
+  margin: 15px;
+  width: 200PX;
+  box-shadow: 12px 11px 11px -6px #00000031;
+}
+.ins h1{
+  color: rgb(177, 16, 177);
+ text-align: center;
+ padding: 5px;
+ text-transform: capitalize;
+}
+.ins p{
+  text-align: left;
+  padding-left: 10px;
+}
+#button {
+background-color:#d306fc31 ;
+color: rgb(83, 5, 107);
+border-radius: 19px;
+border-color: #d306fc31;
+border: none;
+padding: 10px 35px;
+margin-bottom: 15px;
+margin-left: 70px;
+box-shadow: 12px 11px 11px -3px #00000031;
+}
+/*body{
+  background-color: rgb(132, 12, 192);
+}
+h1{
+  color: rgb(237, 20, 172);
+  font-family: Italic;
+
+}
+h2{
+  color: bisque;
+}
+li{
+  color: gray;
+}
+td{
+  color: white;
+}*/
+/*
+div{
+background-color: rgb(219, 214, 214);
+padding: 10px;
+  margin: 10px ;
+  width: 500px;
+}
+.first1{
+  border-left: 5px solid red;
+  outline: rgb(219, 214, 214) solid 5px;
+}
+.second2{
+visibility: hidden;
+}
+.third3{
+  border-left: 5px solid green;
+  outline: rgb(219, 214, 214) solid 5px;
+
+}
+#button {
+  border-radius: 5px;
+  border-color: #eee;
+color: rgb(32, 60, 242);
+background-color:white ;
+}
+#test{
+  border-radius: 5px;
+}
+label {
+  
+  color: aqua;
+}
+*/
+/*div {
+display: inline-block;
+background-color: rgb(193, 191, 191);
+ padding: 10px;
+margin: 10px;
+outline: black solid 3px;
+}
+.first {
+border: 3px solid red;
+}
+.second {
+border-color: blue green ;
+border-style: solid;
+border-width: 3px;
+}
+.third {
+  border-color: red green blue yellow;
+  border-style: dashed;
+  border-width: 3px;
+}
+
+div{
+  background-color: blueviolet;
+width: 500px;
+margin: 20px;
+padding: 20px;
+border-radius: 20px;
+}
+.shape-1{
+ 
+
+}
+
+.shape-2{
+  opacity: 0.5;
+
+}
+.shape-3{
+  opacity: 0.1;
+}
+div{
+width: 300px;
+ padding: 20px;
+ border-radius: 20px;
+}
+.shape-1{
+  background-color: blueviolet;
+  margin: 10px 20px ;
+}
+.shape-2{
+  background-color:blueviolet ;
+  margin: 10px 20px  ;
+  opacity: 0.5;
+}
+.shape-3{
+  background-color:blueviolet ;
+  margin: 10px 20px;
+  opacity: 0.1;
+  color: black;
+  
+}
+
+
+.project{
+ background-color: #ebebeb;
+ padding: 0.5px 20px;
+margin:20px 1000px 0px 20px;
+
+}
+.titl{
+  color: white;
+background-color: #754343;
+padding: 0px 5px;
+
+font-family: Arial, Helvetica, sans-serif;
+
+}
+.titl1{
+  padding: 5px 10px;
+}
+.par{
+  margin-top: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+}*/
+
+
